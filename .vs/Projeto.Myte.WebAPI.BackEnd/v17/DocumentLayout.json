@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|c:\\users\\isabella.vieira.mota\\desktop\\docs\\projetos git\\projeto-myte\\projeto.myte.webapi.backend\\models\\mytedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|solutionrelative:projeto.myte.webapi.backend\\models\\mytedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|c:\\users\\isabella.vieira.mota\\desktop\\docs\\projetos git\\projeto-myte\\projeto.myte.webapi.backend\\models\\entities\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|solutionrelative:projeto.myte.webapi.backend\\models\\entities\\departamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|c:\\users\\isabella.vieira.mota\\desktop\\docs\\projetos git\\projeto-myte\\projeto.myte.webapi.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|solutionrelative:projeto.myte.webapi.backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|c:\\users\\isabella.vieira.mota\\desktop\\docs\\projetos git\\projeto-myte\\projeto.myte.webapi.backend\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|solutionrelative:projeto.myte.webapi.backend\\controllers\\departamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|c:\\users\\isabella.vieira.mota\\desktop\\docs\\projetos git\\projeto-myte\\projeto.myte.webapi.backend\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|solutionrelative:projeto.myte.webapi.backend\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|c:\\users\\isabella.vieira.mota\\desktop\\docs\\projetos git\\projeto-myte\\projeto.myte.webapi.backend\\models\\entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55CDDFEE-D4CA-428C-956B-DEB7807103FE}|Projeto.Myte.WebAPI.BackEnd\\Projeto.Myte.WebAPI.BackEnd.csproj|solutionrelative:projeto.myte.webapi.backend\\models\\entities\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Models\\Entities\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Projeto.Myte.WebAPI.BackEnd\\Models\\Entities\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Models\\Entities\\Usuarios.cs",
+              "RelativeToolTip": "Projeto.Myte.WebAPI.BackEnd\\Models\\Entities\\Usuarios.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:24:33.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Controllers\\DepartamentosController.cs",
+              "RelativeDocumentMoniker": "Projeto.Myte.WebAPI.BackEnd\\Controllers\\DepartamentosController.cs",
+              "ToolTip": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Controllers\\DepartamentosController.cs",
+              "RelativeToolTip": "Projeto.Myte.WebAPI.BackEnd\\Controllers\\DepartamentosController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowEwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:51:02.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyteDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Models\\MyteDbContext.cs",
+              "RelativeDocumentMoniker": "Projeto.Myte.WebAPI.BackEnd\\Models\\MyteDbContext.cs",
+              "ToolTip": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Models\\MyteDbContext.cs",
+              "RelativeToolTip": "Projeto.Myte.WebAPI.BackEnd\\Models\\MyteDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:35:17.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Departamentos.cs",
+              "DocumentMoniker": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Models\\Entities\\Departamentos.cs",
+              "RelativeDocumentMoniker": "Projeto.Myte.WebAPI.BackEnd\\Models\\Entities\\Departamentos.cs",
+              "ToolTip": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Models\\Entities\\Departamentos.cs",
+              "RelativeToolTip": "Projeto.Myte.WebAPI.BackEnd\\Models\\Entities\\Departamentos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:24:13.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "Projeto.Myte.WebAPI.BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\appsettings.json",
+              "RelativeToolTip": "Projeto.Myte.WebAPI.BackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T13:12:27.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Projeto.Myte.WebAPI.BackEnd\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\isabella.vieira.mota\\Desktop\\DOCS\\PROJETOS GIT\\Projeto-Myte\\Projeto.Myte.WebAPI.BackEnd\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Projeto.Myte.WebAPI.BackEnd\\Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwCIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T21:38:01.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

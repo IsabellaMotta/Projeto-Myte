@@ -1,0 +1,6 @@
+@Projeto.Myte.WebAPI.BackEnd_HostAddress = http://localhost:5186
+
+GET {{Projeto.Myte.WebAPI.BackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
